@@ -1,0 +1,7 @@
+{
+    "name": "AddPositions",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./AddPositions.js"
+}
+    
